@@ -9,3 +9,5 @@ The actual GUI application itself is closed source at the moment, but it is esse
 * Ability to place limit order, and psuedo-stop orders
 * No telemetry, no automatic updates, no communicating with unknown servers.
 * Free!
+
+![image](http://i.imgur.com/PRtZ9ZC.png)
