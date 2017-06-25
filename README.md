@@ -5,6 +5,8 @@
 
 ![image](http://i.imgur.com/PRtZ9ZC.png)
 
+## Details:
+
 The actual GUI application itself is closed source at the moment, but it is essentially a wrapper around the open source Gemini API library (Gemini.dll) I've [published here](https://github.com/please-hodl-me/Gemini). Feel free to recompile the DLL or modify it.
 
 * Written in C#, using no external libraries to increase security.
